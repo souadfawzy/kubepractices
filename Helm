@@ -1,0 +1,2 @@
+helm install --values=my-values.yaml chart-name
+hel install --set version=2.0.0
